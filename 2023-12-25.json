@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Harris",
+  "age": 36,
+  "address": {
+    "street": "Woder Lane",
+    "city": "Ahvimur",
+    "state": "LA",
+    "zip": "56377"
+  },
+  "contact": {
+    "phone": "(752) 269-4121",
+    "servicePhone": "800886992"
+  },
+  "birthday": "2004-09-27T19:06:13.216Z",
+  "ip": "167.194.250.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Coh udih tus puawop fefsennuv pavuf la le tuledusup imejiz falno wuz cuf detego cimra imada ihognoc. Gakcudceg tetigpu pethos ca za fellowu zusen pik awatrin vow cakverar igi cow zosliek uze lijec agunerzev. Faf fodunalas mieba kuk ugu juufiike wukizri fancu vi ade zon di tiz kuzcop. Ziwjel fensafur ta giida waha oge uf ar dam evge bizreozi ko hi se. Ut hahpi kuwtujij avawiz dadji abi izpo san icu doge bu jahum ipte nu utoboceh amaaza beabaj oho. Sonol nelapze ikomuno figrooza vulaet acadac zojuna cin pujmes zunuwwi nic cakuj fe tidisaf lo vagnazji.",
+    "bio": "Peci zod midew pu ajtu nuteju ikiji ce gofit wegidpo zaztak ozikuza noudvuz oponi ca. Harcitane okameca citonte rogsih iparuh mov lilaro fimbif nu topuh iweozi cogzugsa. Janihvip zojpog ew fah vuwnucec gidjiwhe bozuw namjihe ikadadta bouze lejud soknow bitevnez fa fe tuvi luwditduv."
+  },
+  "apiKey": "21f72d58ebf531992400da9349e1ef4e7f7069b3265fdbd6093139399732b741",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
