@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Briggs",
+  "age": 31,
+  "address": {
+    "street": "Weige Boulevard",
+    "city": "Dupilni",
+    "state": "FL",
+    "zip": "54984"
+  },
+  "contact": {
+    "phone": "(389) 843-6061",
+    "servicePhone": "800126572"
+  },
+  "birthday": "1974-01-28T03:41:29.926Z",
+  "ip": "232.68.29.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Kec ok alukefobu tumo lafib gik tom dormegeg zihpegna adi rofvir civiwale vernaov zeh vifha ubehozojo. Ipejo lasih jezkiv rivlic sit rubda re zijvigid genotin ba veuve tuk uroalaig zehpe. Vo wibmogud ni zegune ilecimhi ded noko isaved li gorinhub vab potelfi. Makgopiz he poojamiv aguho foipe fi wazale ihoac heh esigu ne mauhuj zomhebmis do wokniddik rocozi.",
+    "bio": "Rokmi cawapu nobtu miceetu fobelu jujovo bab lik oj ovo une vo wipocafaj ar ebziki nogdetta. Ejdo woppih jeib volivfug gavobdoc metkoflib mezanijoj zo afihoza ha zilrufe vuh kuvasi garal das vehag. Ja sodeb decbom nensum pofsin hoh zafnow lobvuwa dallona cazdo su pubofic."
+  },
+  "apiKey": "ec0ecbbaacb1ee00093bf3fb820f555d34da209234192cff843c369c621edc4c",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
