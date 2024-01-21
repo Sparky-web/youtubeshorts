@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Sandoval",
+  "age": 18,
+  "address": {
+    "street": "Irzep Plaza",
+    "city": "Heanbi",
+    "state": "CA",
+    "zip": "02960"
+  },
+  "contact": {
+    "phone": "(619) 789-6512",
+    "servicePhone": "800764973"
+  },
+  "birthday": "1996-04-17T07:25:09.748Z",
+  "ip": "57.29.124.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Jostimo sogoka momarekon kojhuetu solgeahi tirje wotagarul zenoj cuvka odisos gaho talupoedo fisovaje liz. Vuso ab tib or kumjila kas mav ifelosof hindad zaduv paj sot ifbo galur sep cumusbik dofo ehatodhon. Ibe vomicfa niawa pemput saiwetol sifro zazece dicgucek hig coc te vuthoweb duhzim an agefo ca. Cilo buzocca sij relzog ehoutirel ha zifuf ov ehra omukez bog jomje hiddab sat za gokifirup cih.",
+    "bio": "Jed cesne deptapi ub bugjebeh emjize fehsarji gob pu ug des hovpot ijaburvu dasinbil sih mupijfi piwbum. Do azewoga zitecim buvu luf gauvu vogih cavrewjer suw ta rob fokrocmuj uha su dubitab. Im anureko ad rohemas ar pe dasbeud ipbac tojawe ownum kaopajun noddas pakazus jofpivdu. Muf se kene omba oratu caloaji cam waska azo zalog kefaci bahec zot ivituz pehrit remkuihi. Ethubab kegligrev ovafika pijoveno bi wopu fis difiini najog detnu ba zutnuc. Vane pak gisiib sozori lekgilek numdiji li tug pupulce tijoran ojbi sa sotca oho giz izuiftul migpin moh."
+  },
+  "apiKey": "8d1fe7ac84fc4f122adbd6f8e44934cb1787580864a8dbd29de980fe77899cce",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
