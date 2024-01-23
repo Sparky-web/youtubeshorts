@@ -1,0 +1,26 @@
+{
+  "name": "Ann Moran",
+  "age": 32,
+  "address": {
+    "street": "Abzo Trail",
+    "city": "Toepoti",
+    "state": "ND",
+    "zip": "11214"
+  },
+  "contact": {
+    "phone": "(257) 408-6283",
+    "servicePhone": "800712123"
+  },
+  "birthday": "1960-06-21T13:53:37.616Z",
+  "ip": "72.208.201.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Olo safac bop ruda re hasifguc idoke mondun wateb ih tibdibco eg si wahmu balhumoh sifom kihura gikilfav. Ofnur uzauduheb um soaraowo tebke utgo dodne icomeber ono pipnebdim siso fujnu sa sanimo. Sicavlod kakpus onsihdo selun tase sello kimelise avasomivo tul ku ke fu rafsece opoage gebilaw. Uffof ale gil dolidco uga solapwu tadrawces lepkab al kunfak zumowge febjasag izafedo saevo ozifi nub mer. Bih fizip bibec divgosip bu raez fuwhe medanzop volerlat tudzuj juof to do. Gouli dalmevi zasdirfa bo evoh bifrup itocid te cofwar beuz aw zuveti miggiv hud soc ah koto. Ik wopzev fembipal wenvu lizrajo lugfu lug uza vev uza wutnujve wa vizodji tab pig lazawe ufza.",
+    "bio": "Forrah vizcijib gu fi wu fivmu puwuci se pijanrem fi kido vido wemnu rimirer. Feohevu epewi woc fabro zigcudul zowtaf esufovam uwiozoewu ethuc porwodet durasbot vezset kepo. Ri bevu araofitop bi pebipo ukpe ju wugum fum budetaet koh esufa of koz iteculaj kap vadhu vammo."
+  },
+  "apiKey": "24b31c201cc25c35c2a48576499ef8e26ac7ce82078eee4caf134a65d05d99e5",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
