@@ -1,0 +1,26 @@
+{
+  "name": "Timothy Howell",
+  "age": 41,
+  "address": {
+    "street": "Ipotu Extension",
+    "city": "Parajud",
+    "state": "MN",
+    "zip": "33069"
+  },
+  "contact": {
+    "phone": "(855) 407-5887",
+    "servicePhone": "800478591"
+  },
+  "birthday": "2002-09-14T13:44:39.681Z",
+  "ip": "83.40.214.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe egurugvaj da ki gi vagirim adiraeti bir aguki non so ve hufhaak rericahe hirerpan omi ezu lilminoj. Nuozo ci nan dimipu ajali zamuzki linrep ekiko ciippu laud jet ru moszasac na. Zikrow poh fih rogrip bo kuk ruwwewoh isiip hokupe hic vicgahor wimepgu he eko nezpe fupnubu ru igi.",
+    "bio": "Davaz zu bi detu of ejzeb fu wulgez mepavu najurhek ineofuzug taviwil mekov havdofrez. Hivoriki rihvifo uni bod jaso guk cazibe gek es gob fid go pohizefi. Da wohaje dinjit viku wejizgag ruvih jad wehsabzut diglonur wabcowbog ubla evueva ebsi or jaz."
+  },
+  "apiKey": "0c5f89aac21ed0b85d29c51b95026d34fcb153a058218a24a72733e9ebad5181",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
