@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Johnson",
+  "age": 25,
+  "address": {
+    "street": "Remor Key",
+    "city": "Sempakcol",
+    "state": "CA",
+    "zip": "75478"
+  },
+  "contact": {
+    "phone": "(825) 388-3149",
+    "servicePhone": "800785348"
+  },
+  "birthday": "1980-01-22T11:15:41.980Z",
+  "ip": "43.47.226.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihuzu cozu lopuhoz simof koopulu vaze jizherbu val newdiuj iliibipa diricken ducnim faj cenpen kinli peku vulwib pukij. Hap digtijba vegusmu awpa riahurop weuwbes todjahsiz vukugraw dud wowkez salucose seddeg con. Nujo da fez lellus woikwob sohovi debibzoc ufulus zazpe wisses coihfe les vambib zo vaw.",
+    "bio": "Lus zo naese po rupiz ke doitaraj ulowazu pufic inupir juidu ge cupetu guzooku kede elane rupevu. Zoasusut zir kesbereh wis eh abe nedeg rofcioru vuzsu zid vomup je inuedisu dejut noom ace akujgu. Vawvas gelpil zihehe gipoge rihormi rac bop abud rabdih confu wosiv ucukehaj vocuc efaj."
+  },
+  "apiKey": "80f6386cf3b84f5705935dd94a1c569dfcbeeefd8691f464c581f8b45645dd6f",
+  "currency": {
+    "code": "EUR",
+    "name": "Euro Member Countries"
+  }
+}
