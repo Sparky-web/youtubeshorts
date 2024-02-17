@@ -1,0 +1,26 @@
+{
+  "name": "Luke Lopez",
+  "age": 42,
+  "address": {
+    "street": "Sidfi Drive",
+    "city": "Cocujit",
+    "state": "SC",
+    "zip": "59347"
+  },
+  "contact": {
+    "phone": "(322) 621-3253",
+    "servicePhone": "800644532"
+  },
+  "birthday": "1977-06-19T00:27:39.396Z",
+  "ip": "14.74.97.41",
+  "foo": "bar",
+  "profile": {
+    "about": "In ewusutuv imtu sab mu puvba mufi zotuzoeb lejce muzes bosebe riltu izo nak. Rigdak go maddu wij cojol mivetu wan objeswi beof du ruhugiwu limti jafgu. Ce rugbe utmonzoz poldeez gefotwew da mof fojem afehipto omo duzzug gucuwicol azipupow. Pupi majim cefo geeggib fuposid walcus hapkogja dul encog sic ju dacpu mudat gid weunzuw ija jirar. Nihpimo zam arjocud ca zep ubemecod colbiji omsah god hi wul vovrahake wicmo kuho.",
+    "bio": "Sonug lu hum awa zimis wugev ohatuv eki ej vawcemoh ba owendo inugepat. Ikeozega vi cupkife bues ku wa kovcecci pep or wuti bukpe afuhar. Toku uk bununcu jesi herozij mi ivoig kihum gup ur esibegaz imupnuk pasakide ku cizhurta osoabuteh. Idrako dov kiruztit ap mafep jibkulhiw ujwehlan lirdudi mejo hu uka goguco. Lor us cogdineb rupwi baco nasepbe gihka bumu tutiza femubeh micjuhaf nodu amel pulojise do zejniivi mojowe vuw. Pabinte wem pakomer tinuf jaf dika rikza sepwusum vatog ejzur eketojbo cawcafad longuc mulbi."
+  },
+  "apiKey": "d40a7cfeb06cde2e999374112dfb84fa8f71c073268904854a85853d967e2761",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
