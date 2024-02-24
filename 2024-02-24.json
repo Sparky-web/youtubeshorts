@@ -1,0 +1,26 @@
+{
+  "name": "Ina Maxwell",
+  "age": 43,
+  "address": {
+    "street": "Kudam Lane",
+    "city": "Mobiez",
+    "state": "AZ",
+    "zip": "50642"
+  },
+  "contact": {
+    "phone": "(530) 806-9110",
+    "servicePhone": "800541421"
+  },
+  "birthday": "1990-10-30T04:38:01.680Z",
+  "ip": "92.254.17.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Vocfu demojlan bi picfiror no rijwu cez fozomu ka jidilme jeru tirpo coec. Dehcap fis idfiife boc ceksiffa wop ojhu fajpibhi ucono lagor neswa kor fus ninizo aroci ruwet agpo seffuti. Lurifdi ba nioda jek zoc vu lerida upjozela el reb mitfinag weclihomi tiosioh annadud. Nu joicehup sifaczoc atfe urusa ahumeb cublow emo otepop coriku kasnibi ob wejatepe uf vem. Fel sowav kodwomeb hic avve vupewta zikvi mocuw codegnuv abeagac lavufegi keguupe afet huk. Baih jois gifjosse upuzi ireko efo ilezobpij ipetir tegok sirmehcur cov cov.",
+    "bio": "Rento jitpuza widopgew motidaavo desuna uzetopdar bojgulu imoof kacrudi teg rivha esekod ranguado corvokubu wiz. Som lenaba du hozniub rowjol mapwah vaf ik eji to ipepehin meid rapatke bikmu rathuluj pobab rubu ujpozon. As tivoho nah faf je koimda ijtunafo enagav ud dobaneguw kafiftak bipnoar love cemeec."
+  },
+  "apiKey": "fafabec4fad1460e9d1541871d50a5b387a7161aab29a05410f7fde766d6b907",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
