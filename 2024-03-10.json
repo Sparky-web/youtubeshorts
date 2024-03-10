@@ -1,0 +1,26 @@
+{
+  "name": "Ian Palmer",
+  "age": 21,
+  "address": {
+    "street": "Hegov Park",
+    "city": "Jobvogice",
+    "state": "LA",
+    "zip": "53037"
+  },
+  "contact": {
+    "phone": "(733) 998-7308",
+    "servicePhone": "800936517"
+  },
+  "birthday": "1998-01-27T16:22:15.796Z",
+  "ip": "28.228.131.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Muvun pob gubirbe ijuotosa ubi ninkure nejuh ku otwaw neehigi wotharibo aj hotul. Ocu sihbav iropusu tub ji fi pihtu wet wisca genaru sovbisa ikicodso sa loros. Forpuziz joc do nuuligu opopte no liraz goceshu zeh uwcitag ozogekar uwoec buklag nunow subzif fonzad. Atijigfa puwkoczod neoc subu cenid cosiza jidur desa jeto judar kulezun juvi gu gepkerko pudivovi nen mej vuacog. Fir gamep otizoh tafem de um hepla dolme wiw ba te jacito atgim. Caca om rohe festa limohu rohi imujsu dohbah inakumo sostut hisilgav uhceor higim doviohu zabde.",
+    "bio": "Bewepec fe gaape jiwwavoz losuzcuc fuzip jigmu mitfac nulkegdo morurir vu dido duah gawevge. Zusov rutmiket wekus honoguri ogegozroz zo meupupa taklom acuz ju ewahuvu sojijumi weeli rurif av zar. Set uma oho zuvruta nakeja wukuvge wen guh odnoj nop emiamiinu hugnuuw dahori iju fim wer sosonafus irava."
+  },
+  "apiKey": "85a873bd2aae8815c78cd4ca8eae685dc16358fc050c7975c69b486657a6b09f",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
