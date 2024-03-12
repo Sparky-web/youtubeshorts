@@ -1,0 +1,26 @@
+{
+  "name": "Paul Huff",
+  "age": 25,
+  "address": {
+    "street": "Beeci Point",
+    "city": "Jefreem",
+    "state": "MS",
+    "zip": "10988"
+  },
+  "contact": {
+    "phone": "(505) 828-3182",
+    "servicePhone": "800933274"
+  },
+  "birthday": "2003-04-05T11:51:31.700Z",
+  "ip": "201.149.59.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu aw net zut dawsucaj gedriv me lo baica ciwridwi of sunse seg. Bohu akocud lun tumirop eso ezemondek uziifmef fo rufofik viwazbi dusis ini. Ro za so sawasa bopgad vi cenbalis moran koflunip jib ojege hu. Ezip depzunigo fuwe nej awuzgu cowiiw unridosu zufloc heeru fi bojeniemu asewus to hatu kerpevtos rilidi.",
+    "bio": "Towvofug affo dooru gobu sejhavor cabnop me meba idsubbo uskezle ni de voti utahupan vijtucsuw. Coclajew vu behmiv volomdah fu oscosfe pabuz vohol hol ha wus luju an. Daz redeh dospop puz zu robjanor doketawe nozvetju dindogam luj ciasa vib urre mefpan sokivo amjovpe wew. Eblo lefjiktu ro oh akpas goftawhi ifusu nonaf tosfik serlueb jaagoira uvuoris zem sa. Pic nudusi josmeslu mok wuciw homuko mur cune ci va dawumsif pupak jujfeb. Lef oldemse ri wusa zahowo nagnucimo hiwrowa ni cek tefwu godo fedvuav luava suzuc. Zoga bow buman muhkebah zobgorsur pas biwnol ca najumlom heku he muzit nor ilucah tikeleg juwo gim."
+  },
+  "apiKey": "a33d4c3ae312a4b5f5bf571ca8f05272591b9b0b92a97900ac1c8d7bbf14ea2a",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
